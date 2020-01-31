@@ -1,13 +1,7 @@
-Коваленко Инесса Глебовна				
-Успеваемость				
-Факультет радиофизики и компьютерных технологий 4 курс, группа 4, форма обучения дневная, специальность: компьютерная безопасность (радиофизические методы и программно-технические средства) средний балл: 7,2				
-				
-Kavalenka Inessa				
-				
-## Computer Security(radio physical methods,  software and hardware means)				
-## Qualification – Specialist in Information Security. Radio physicist.				
-## GPA 7.2 (out of 10)				
-
+## STUDY RECORD	
+### Computer Security(radio physical methods,  software and hardware means)				
+### Qualification – Specialist in Information Security. Radio physicist.				
+### GPA 7.2 (out of 10)				
 				
 ## BACHELORS				
 		
