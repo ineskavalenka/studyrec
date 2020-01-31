@@ -8,7 +8,7 @@
 ### (1) 1st year, winter term / 1 курс, зимняя сессия	
 
 | № | Subject <br> Предмет                                       | exam <br> Экзамен/Зачет |
-| - |:---------------------------------------------------------- | ------------------ |				
+| - | ---------------------------------------------------------- | ------------------ |				
 | 1 | Mathematical analysis <br>  Математический анализ          | 5 |		
 | 2 | General and Theoretical Physics <br>  Общая физика         | 8 |
 | 3 | English <br>  Иностранный язык                             | + |
@@ -26,7 +26,7 @@
 | 2 | General and Theoretical Physics <br> Общая физика | 6 |
 | 3 | Belarusian language <br> Белорусский язык (профессиональная лексика) | + |		
 | 4 | Public policy and management <br> Спец. модуль "Государственная политика и управление"	| + |
-| 5 | Training practice (computations) Учебная практика (вычислительная) | + |
+| 5 | Training practice (computations) <br> Учебная практика (вычислительная) | + |
 | 6 | Physical Culture (Sports) <br> Физическая культура	| + |		
 | 7 | Analytical Geometry and Higher Algebra <br> Аналитическая геометрия и линейная алгебра | 7 |
 | 8 | English <br> Иностранный язык | 7 |
@@ -52,7 +52,7 @@
 | 3 | Human life safety <br> Безопасность жизнедеятельности человека | + |
 | 4 | Applied Programming <br> Прикладное программирование | +  |  				
 | 5 | Training practice (radioelectronics) <br> Учебная практика (по радиоэлектронике) | 	+	  | 	
-| 6 | Physical Culture <br> (Sports)Физическая культура	| + |		
+| 6 | Physical Culture (Sports) <br> Физическая культура	| + |		
 | 7 | Philosophy Интегрированный модуль <br> "Философия"	|	9 |	
 | 8 | Economics	Интегрированный модуль <br> "Экономика"	| 7 |
 | 9 | Operations Research <br> Исследование операций	| 9 |
