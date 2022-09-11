@@ -139,11 +139,11 @@
 | Circuitry of information security <br> Схемотехника средств защиты информации	 | +	 | 		
 | Machine learning methods <br> Методы машинного и глубокого обучения	 | 	4 | 		
 | Structural systems analysis and data models <br> Структурный анализ систем и модели данных | 		8	 | 	
-| Research work <br> Научно-исследовательская работа	 | to do  |  			
+| Research work <br> Научно-исследовательская работа	 | + |  			
 
 ### (4) 2nd year, spring term / 2 курс, весенняя сессия	
 | Subject <br> Предмет                                       |	exam <br> Экзамен/Зачет |
 | ---------------------------------------------------------- | ------------------- | 				
-| Internship <br> Производственная практика	 | to do |  		
-| Research work <br> Научно-исследовательская работа	 | to do | 			
-| State Exam <br> Итоговая аттестация		 | to do | 			
+| Internship <br> Производственная практика	 | 10 |  		
+| Research work <br> Научно-исследовательская работа	 | 9 | 			
+| State Exam <br> Итоговая аттестация		 | + | 			
